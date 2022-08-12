@@ -11,10 +11,5 @@ GAS_REPORT=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-# Web3RSVP
-# Web3RSVP
-# Web3RSVP
-# Web3RSVP
-# Web3RSVP
-# Web3RSVP
+
 # Web3RSVP
